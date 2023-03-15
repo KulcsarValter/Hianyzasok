@@ -1,0 +1,16 @@
+C:\Users\Kulcsár Valter\source\repos\Hianyzasok\Hianyzasok\Hianyzasok\bin\Debug\Hianyzasok.exe.config
+C:\Users\Kulcsár Valter\source\repos\Hianyzasok\Hianyzasok\Hianyzasok\bin\Debug\Hianyzasok.exe
+C:\Users\Kulcsár Valter\source\repos\Hianyzasok\Hianyzasok\Hianyzasok\bin\Debug\Hianyzasok.pdb
+C:\Users\Kulcsár Valter\source\repos\Hianyzasok\Hianyzasok\Hianyzasok\obj\Debug\Hianyzasok.csproj.AssemblyReference.cache
+C:\Users\Kulcsár Valter\source\repos\Hianyzasok\Hianyzasok\Hianyzasok\obj\Debug\Hianyzasok.csproj.SuggestedBindingRedirects.cache
+C:\Users\Kulcsár Valter\source\repos\Hianyzasok\Hianyzasok\Hianyzasok\obj\Debug\MainWindow.g.cs
+C:\Users\Kulcsár Valter\source\repos\Hianyzasok\Hianyzasok\Hianyzasok\obj\Debug\App.g.cs
+C:\Users\Kulcsár Valter\source\repos\Hianyzasok\Hianyzasok\Hianyzasok\obj\Debug\Hianyzasok_MarkupCompile.cache
+C:\Users\Kulcsár Valter\source\repos\Hianyzasok\Hianyzasok\Hianyzasok\obj\Debug\Hianyzasok_MarkupCompile.lref
+C:\Users\Kulcsár Valter\source\repos\Hianyzasok\Hianyzasok\Hianyzasok\obj\Debug\MainWindow.baml
+C:\Users\Kulcsár Valter\source\repos\Hianyzasok\Hianyzasok\Hianyzasok\obj\Debug\Hianyzasok.g.resources
+C:\Users\Kulcsár Valter\source\repos\Hianyzasok\Hianyzasok\Hianyzasok\obj\Debug\Hianyzasok.Properties.Resources.resources
+C:\Users\Kulcsár Valter\source\repos\Hianyzasok\Hianyzasok\Hianyzasok\obj\Debug\Hianyzasok.csproj.GenerateResource.cache
+C:\Users\Kulcsár Valter\source\repos\Hianyzasok\Hianyzasok\Hianyzasok\obj\Debug\Hianyzasok.csproj.CoreCompileInputs.cache
+C:\Users\Kulcsár Valter\source\repos\Hianyzasok\Hianyzasok\Hianyzasok\obj\Debug\Hianyzasok.exe
+C:\Users\Kulcsár Valter\source\repos\Hianyzasok\Hianyzasok\Hianyzasok\obj\Debug\Hianyzasok.pdb
